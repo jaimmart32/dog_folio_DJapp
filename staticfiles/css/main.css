@@ -1,0 +1,19 @@
+.body{
+    background-color: #a20000!important;
+}
+
+.texto-rojo{
+    color: #a20000;
+}
+
+#profile-wrapper{
+    text-align: center;
+}
+
+#profile-pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
